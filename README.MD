@@ -1,2 +1,2 @@
 # README #
-# Here are som additional changes
+# Here are some additional changes
